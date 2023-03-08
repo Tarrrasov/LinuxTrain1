@@ -1,0 +1,8 @@
+итого 24
+drwxrwxr-x  3 tarrrasov tarrrasov 4096 мар  8 17:52 .
+drwxr-x--- 27 tarrrasov tarrrasov 4096 мар  8 17:45 ..
+-rw-rw-r--  1 tarrrasov tarrrasov    4 мар  8 17:44 File1
+-rw-rw-r--  1 tarrrasov tarrrasov  376 мар  8 17:50 File2
+-rw-rw-r--  1 tarrrasov tarrrasov    0 мар  8 17:52 File3
+drwxrwxr-x  8 tarrrasov tarrrasov 4096 мар  8 17:51 .git
+-rw-rw-r--  1 tarrrasov tarrrasov   13 мар  8 17:41 README.md
